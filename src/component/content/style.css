@@ -1,0 +1,72 @@
+section{
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+img{
+    width: 45%;
+    height: 45%;
+}
+
+.column{
+    margin-top: 10%;
+    margin-bottom: 50px;
+}
+
+.column .description{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+}
+.description{
+    color: black;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    margin-bottom: 5px;
+    color: #364f68;
+    width: 100%;
+    line-height: 40px;
+    text-align: justify;
+}
+
+.button{
+    background-color: #364f68;
+    padding: 13px;
+    float: left;
+    margin-top: 20px;
+    color: white;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+.button:hover{
+    background-color: #fc5185;
+    color: white;
+}
+
+.doctor{
+    border-radius: 100%;
+    width: 20%;
+    height: 20%;
+    margin-left: 90px;
+    margin-right: 40px;
+}
+
+h1{
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.description-product{
+    text-align: left;
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+.column-product{
+    margin-top: 3%;
+}
